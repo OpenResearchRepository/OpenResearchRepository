@@ -1,8 +1,8 @@
 # Open Research Repository
 
-<div style="text-align: center;">
-   <img src="https://raw.githubusercontent.com/OpenResearchRepository/OpenResearchRepository/master/temp_research_icon.png" />
-</div>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/OpenResearchRepository/OpenResearchRepository/master/assests/temp_research_icon.png" />
+</p>
 
 ## Work in Progress!
 
