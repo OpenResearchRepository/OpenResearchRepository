@@ -21,5 +21,5 @@
 - [ ] Framework for research paper standards
 - [ ] Support and integration with existing open source science initiatives (OSF)
 - [ ] Website and mobile applications that make locating research the main goal
-- [ ] Central repository to provide an alternative hosting for all known scientific fields of study
+- [X] Central repository to provide an alternative hosting for all known scientific fields of study
 
