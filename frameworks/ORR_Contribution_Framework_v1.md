@@ -21,5 +21,5 @@ TODO
 # Contributing via the Open Research Repository Website
 TODO
 
-#Indirect and 3rd Party Contribution Guidance
+# Indirect and 3rd Party Contribution Guidance
 TODO
